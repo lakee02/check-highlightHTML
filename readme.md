@@ -1,4 +1,3 @@
-Sure, here is a README file for the project:
 
 # Highlight HTML Content
 
